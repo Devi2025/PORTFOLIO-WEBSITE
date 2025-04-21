@@ -20,3 +20,4 @@ This project is a frontend web development task focused on creating a personal p
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/a77a0a40-8de2-4308-a844-3c68b3476115)
